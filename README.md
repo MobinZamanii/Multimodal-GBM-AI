@@ -15,7 +15,7 @@ The final framework is designed to investigate two major clinical prediction tas
 
 ## Research Pipeline
 
-
+```
 BraTS 2021
 (T1, T1ce, T2, FLAIR + Segmentation)
                 │
@@ -39,7 +39,7 @@ BraTS 2021
         ▼                ▼
        GTR            Survival
     Prediction        Prediction
-
+```
 Datasets
 BraTS 2021
 
