@@ -1,1 +1,13 @@
-
+torch
+torchvision
+monai
+numpy
+pandas
+scikit-learn
+scipy
+nibabel
+matplotlib
+seaborn
+pyyaml
+tqdm
+openpyxl
