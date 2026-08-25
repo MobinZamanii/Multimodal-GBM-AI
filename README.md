@@ -102,7 +102,7 @@ Validation loss
 The purpose of this stage is to learn transferable MRI representations rather than to perform the final GTR or survival prediction.
 
 Model Development
-
+```
 The planned architecture consists of several components:
 
 MRI Encoder
@@ -120,7 +120,7 @@ Segmentation      Clinical
        ▼           ▼
       GTR       Survival
      Head          Head
-
+```
 The MRI branch is designed as a 3D convolutional encoder.
 
 Clinical and tumor-related information will be incorporated through dedicated feature encoders before multimodal fusion.
