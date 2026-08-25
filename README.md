@@ -124,7 +124,7 @@ Segmentation      Clinical
 The MRI branch is designed as a 3D convolutional encoder.
 
 Clinical and tumor-related information will be incorporated through dedicated feature encoders before multimodal fusion.
-
+```
 Project Structure
 Multimodal-GBM-AI/
 │
@@ -147,6 +147,7 @@ Multimodal-GBM-AI/
 │   └── logs/
 │
 └── checkpoints/
+```
 Technologies
 Python
 PyTorch
